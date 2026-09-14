@@ -1,0 +1,5 @@
+step,object,x,y,zoom,page,question,answer,alt_text,layer1_button,layer1_content,layer2_button,layer2_content,clip_start,clip_end,loop
+paso,objeto,x,y,zoom,pagina,pregunta,respuesta,texto_alt,boton1,contenido1,boton2,contenido2,inicio_clip,fin_clip,bucle
+1,codex-mendoza-fol,0.5,0.5,1,,What is this image?,Lets have a closer look,,,,,,,,
+2,codex-mendoza-fol,0.24006416399179237,0.6665469565486474,10.675324675324678,,What does this image represent?,This image appears to be some sort of building or structure that also has some sort of colorful design at the bottom. The 2 dots could possibly represent some sort of wheels.,,,,,,,,
+3,codex-mendoza-fol,0.6121666902616406,0.4784747962290664,3.575144634172415,,What are these green colored objects on a red line.,Most likely these green colored objects were used as a bead or pendant on a chain that they were wearing. It appears to be that the patterns on these pendants look differently from the others and they possibly represent something individually.,,,,,,,,
